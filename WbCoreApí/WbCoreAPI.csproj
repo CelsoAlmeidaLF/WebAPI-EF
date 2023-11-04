@@ -17,8 +17,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Systekna.Application\Systekna.Application.csproj" />
-    <ProjectReference Include="..\Systekna.Core\Systekna.Core.csproj" />
+    <ProjectReference Include="..\Source\Systekna.Application\Systekna.Application.csproj" />
+    <ProjectReference Include="..\Source\Systekna.Core\Systekna.Core.csproj" />
   </ItemGroup>
 
 </Project>
